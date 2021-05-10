@@ -1,0 +1,1258 @@
+﻿Log file open, 05/10/21 13:33:21
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: ShootingGameSystemCP
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.511473
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/Wada_Yuki10097002/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Xeon(R) W-2255 CPU @ 3.70GHz, GPU: NVIDIA Quadro P620
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.10-04.33.22:695][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.10-04.33.22:695][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.10-04.33.22:695][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Saved/Config/Windows/Engine.ini]
+[2021.05.10-04.33.22:695][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.10-04.33.22:695][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Saved/Config/Windows/Engine.ini]
+[2021.05.10-04.33.22:695][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Saved/Config/Windows/Engine.ini]
+[2021.05.10-04.33.22:695][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.10-04.33.22:695][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.10-04.33.22:695][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.10-04.33.22:695][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.10-04.33.22:695][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.10-04.33.22:695][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.10-04.33.22:695][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.10-04.33.22:695][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.10-04.33.22:695][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.10-04.33.22:696][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.10-04.33.22:696][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.10-04.33.22:696][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.10-04.33.22:696][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.10-04.33.22:696][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.10-04.33.22:696][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Saved/Config/Windows/Engine.ini]
+[2021.05.10-04.33.22:696][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.10-04.33.22:696][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.10-04.33.22:696][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.10-04.33.22:696][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.10-04.33.22:696][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.10-04.33.22:696][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.10-04.33.22:696][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.10-04.33.22:696][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.10-04.33.22:696][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.10-04.33.22:696][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.10-04.33.22:696][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.10-04.33.22:696][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.10-04.33.22:696][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.10-04.33.22:696][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.10-04.33.22:697][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Saved/Config/Windows/Engine.ini]
+[2021.05.10-04.33.22:697][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Saved/Config/Windows/Engine.ini]
+[2021.05.10-04.33.22:718][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Saved/Config/Windows/Scalability.ini]
+[2021.05.10-04.33.22:718][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.10-04.33.22:718][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.10-04.33.22:718][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Saved/Config/Windows/Scalability.ini]
+[2021.05.10-04.33.22:718][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.10-04.33.22:718][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Saved/Config/Windows/Scalability.ini]
+[2021.05.10-04.33.22:718][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.10-04.33.22:718][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.10-04.33.22:718][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.10-04.33.22:718][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.10-04.33.22:718][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.10-04.33.22:718][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.10-04.33.22:718][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.10-04.33.22:718][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.10-04.33.22:718][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.10-04.33.22:718][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.10-04.33.22:718][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.10-04.33.22:719][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.10-04.33.22:719][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.10-04.33.22:719][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.10-04.33.22:719][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.10-04.33.22:719][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.10-04.33.22:719][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.10-04.33.22:719][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.10-04.33.22:719][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Saved/Config/Windows/Scalability.ini]
+[2021.05.10-04.33.22:719][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.10-04.33.22:719][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.10-04.33.22:719][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.10-04.33.22:719][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.10-04.33.22:719][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.10-04.33.22:719][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.10-04.33.22:719][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.10-04.33.22:719][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.10-04.33.22:719][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.10-04.33.22:719][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.10-04.33.22:719][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.10-04.33.22:720][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.10-04.33.22:720][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.10-04.33.22:720][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.10-04.33.22:720][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.10-04.33.22:720][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.10-04.33.22:720][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.10-04.33.22:720][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.10-04.33.22:720][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.10-04.33.22:720][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.10-04.33.22:720][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.10-04.33.22:720][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.10-04.33.22:720][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.10-04.33.22:720][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.10-04.33.22:720][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.10-04.33.22:720][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.10-04.33.22:720][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.10-04.33.22:720][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.10-04.33.22:721][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.10-04.33.22:721][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.10-04.33.22:721][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Saved/Config/Windows/Scalability.ini]
+[2021.05.10-04.33.22:721][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.10-04.33.22:721][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.10-04.33.22:721][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.10-04.33.22:721][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.10-04.33.22:721][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.10-04.33.22:721][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.10-04.33.22:721][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.10-04.33.22:721][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.10-04.33.22:721][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.10-04.33.22:721][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Saved/Config/Windows/Scalability.ini]
+[2021.05.10-04.33.22:721][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.10-04.33.22:721][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.10-04.33.22:721][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.10-04.33.22:721][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.10-04.33.22:721][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.10-04.33.22:721][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.10-04.33.22:722][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.10-04.33.22:722][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.10-04.33.22:722][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.10-04.33.22:722][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.10-04.33.22:722][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.10-04.33.22:722][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.10-04.33.22:722][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.10-04.33.22:722][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.10-04.33.22:722][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.10-04.33.22:722][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.10-04.33.22:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.10-04.33.22:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.10-04.33.22:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.10-04.33.22:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.10-04.33.22:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.10-04.33.22:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.10-04.33.22:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.10-04.33.22:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.10-04.33.22:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.10-04.33.22:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.10-04.33.22:723][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.10-04.33.22:723][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Saved/Config/Windows/Scalability.ini]
+[2021.05.10-04.33.22:723][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.10-04.33.22:723][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.10-04.33.22:723][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Saved/Config/Windows/Scalability.ini]
+[2021.05.10-04.33.22:723][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.10-04.33.22:723][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.10-04.33.22:723][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.10-04.33.22:723][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.10-04.33.22:723][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.10-04.33.22:723][  0]LogHAL: Display: Platform has ~ 32 GB [34028494848 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.10-04.33.22:723][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.10-04.33.22:723][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Saved/Config/Windows/Scalability.ini]
+[2021.05.10-04.33.22:723][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.10-04.33.22:723][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.10-04.33.22:723][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Saved/Config/Windows/Scalability.ini]
+[2021.05.10-04.33.22:723][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.10-04.33.22:723][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Saved/Config/Windows/Scalability.ini]
+[2021.05.10-04.33.22:724][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.10-04.33.22:724][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.10-04.33.22:724][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.10-04.33.22:724][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.10-04.33.22:724][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.10-04.33.22:724][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.10-04.33.22:724][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.10-04.33.22:724][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.10-04.33.22:724][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.10-04.33.22:724][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.10-04.33.22:724][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.10-04.33.22:724][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.10-04.33.22:724][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.10-04.33.22:724][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.10-04.33.22:724][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.10-04.33.22:724][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.10-04.33.22:724][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.10-04.33.22:724][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.10-04.33.22:724][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Saved/Config/Windows/Scalability.ini]
+[2021.05.10-04.33.22:725][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.10-04.33.22:725][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.10-04.33.22:725][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.10-04.33.22:725][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.10-04.33.22:725][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.10-04.33.22:725][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.10-04.33.22:725][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.10-04.33.22:725][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.10-04.33.22:725][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.10-04.33.22:725][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.10-04.33.22:725][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.10-04.33.22:725][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.10-04.33.22:725][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.10-04.33.22:725][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.10-04.33.22:725][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.10-04.33.22:725][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.10-04.33.22:725][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.10-04.33.22:725][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.10-04.33.22:725][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.10-04.33.22:725][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.10-04.33.22:725][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.10-04.33.22:725][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.10-04.33.22:725][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.10-04.33.22:725][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.10-04.33.22:725][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.10-04.33.22:726][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.10-04.33.22:726][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.10-04.33.22:726][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.10-04.33.22:726][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.10-04.33.22:726][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.10-04.33.22:726][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Saved/Config/Windows/Scalability.ini]
+[2021.05.10-04.33.22:726][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.10-04.33.22:726][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.10-04.33.22:726][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.10-04.33.22:726][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.10-04.33.22:726][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.10-04.33.22:726][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.10-04.33.22:726][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.10-04.33.22:726][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.10-04.33.22:726][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.10-04.33.22:726][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Saved/Config/Windows/Scalability.ini]
+[2021.05.10-04.33.22:726][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.10-04.33.22:726][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.10-04.33.22:726][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.10-04.33.22:726][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.10-04.33.22:727][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.10-04.33.22:727][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.10-04.33.22:727][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.10-04.33.22:727][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.10-04.33.22:727][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.10-04.33.22:727][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.10-04.33.22:727][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.10-04.33.22:727][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.10-04.33.22:727][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.10-04.33.22:727][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.10-04.33.22:727][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.10-04.33.22:727][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.10-04.33.22:727][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.10-04.33.22:727][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.10-04.33.22:727][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.10-04.33.22:727][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.10-04.33.22:727][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.10-04.33.22:727][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.10-04.33.22:727][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.10-04.33.22:727][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.10-04.33.22:727][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.10-04.33.22:728][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.10-04.33.22:728][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.10-04.33.22:728][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Saved/Config/Windows/Scalability.ini]
+[2021.05.10-04.33.22:728][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.10-04.33.22:728][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.10-04.33.22:728][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Saved/Config/Windows/Scalability.ini]
+[2021.05.10-04.33.22:728][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.10-04.33.22:728][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.10-04.33.22:728][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.10-04.33.22:728][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.10-04.33.22:728][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.10-04.33.22:728][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.10-04.33.22:728][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.10-04.33.22:729][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Saved/Config/Windows/Engine.ini]
+[2021.05.10-04.33.22:729][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Saved/Config/Windows/Editor.ini]
+[2021.05.10-04.33.22:729][  0]LogInit: Computer: D00028XN
+[2021.05.10-04.33.22:729][  0]LogInit: User: WadaYuki10097002
+[2021.05.10-04.33.22:729][  0]LogInit: CPU Page size=4096, Cores=10
+[2021.05.10-04.33.22:729][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.10-04.33.22:729][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2021.05.10-04.33.22:729][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.10-04.33.22:729][  0]LogMemory: Process Physical Memory: 138.47 MB used, 138.47 MB peak
+[2021.05.10-04.33.22:729][  0]LogMemory: Process Virtual Memory: 113.27 MB used, 113.27 MB peak
+[2021.05.10-04.33.22:729][  0]LogMemory: Physical Memory: 12075.26 MB used,  20376.84 MB free, 32452.10 MB total
+[2021.05.10-04.33.22:729][  0]LogMemory: Virtual Memory: 134197112.00 MB used,  20612.89 MB free, 134217728.00 MB total
+[2021.05.10-04.33.22:742][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.10-04.33.23:014][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.10-04.33.23:023][  0]LogInit: Using OS detected language (ja-JP).
+[2021.05.10-04.33.23:023][  0]LogInit: Using OS detected locale (ja-JP).
+[2021.05.10-04.33.23:033][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2021.05.10-04.33.23:131][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.10-04.33.23:188][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.10-04.33.23:222][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.10-04.33.23:222][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.10-04.33.23:435][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.10-04.33.23:435][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.10-04.33.23:436][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.10-04.33.23:436][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.10-04.33.23:567][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P620' (Feature Level 11_0)
+[2021.05.10-04.33.23:567][  0]LogD3D11RHI:       1977/0/16226 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.05.10-04.33.23:578][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.10-04.33.23:578][  0]LogD3D11RHI:       0/0/16226 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.10-04.33.23:578][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.10-04.33.23:587][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.10-04.33.23:587][  0]LogD3D11RHI:     GPU DeviceId: 0x1cb6 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.10-04.33.23:588][  0]LogWindows: EnumDisplayDevices:
+[2021.05.10-04.33.23:588][  0]LogWindows:    0. 'NVIDIA Quadro P620' (P:0 D:1)
+[2021.05.10-04.33.23:589][  0]LogWindows:    1. 'NVIDIA Quadro P620' (P:1 D:1)
+[2021.05.10-04.33.23:589][  0]LogWindows:    2. 'NVIDIA Quadro P620' (P:0 D:0)
+[2021.05.10-04.33.23:589][  0]LogWindows:    3. 'NVIDIA Quadro P620' (P:0 D:0)
+[2021.05.10-04.33.23:589][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.05.10-04.33.23:589][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P620
+[2021.05.10-04.33.23:589][  0]LogD3D11RHI:   Driver Version: 452.39 (internal:27.21.14.5239, unified:452.39)
+[2021.05.10-04.33.23:589][  0]LogD3D11RHI:      Driver Date: 9-22-2020
+[2021.05.10-04.33.23:590][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2021.05.10-04.33.23:677][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.10-04.33.23:677][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.10-04.33.23:677][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.10-04.33.23:696][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.10-04.33.23:709][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.10-04.33.24:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.10-04.33.24:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.10-04.33.24:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.10-04.33.24:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.10-04.33.24:227][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.10-04.33.24:227][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.10-04.33.24:227][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.10-04.33.24:227][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.10-04.33.24:227][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.10-04.33.24:227][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.10-04.33.24:227][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.10-04.33.24:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.10-04.33.24:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.10-04.33.24:319][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.10-04.33.24:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.10-04.33.24:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.10-04.33.24:379][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.10-04.33.24:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.10-04.33.24:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.10-04.33.24:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.10-04.33.24:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.10-04.33.24:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.10-04.33.24:528][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.10-04.33.24:548][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.10-04.33.24:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.10-04.33.24:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.10-04.33.24:611][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.10-04.33.24:611][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.10-04.33.24:626][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.10-04.33.24:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.10-04.33.24:659][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.10-04.33.24:675][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.10-04.33.24:675][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.10-04.33.24:708][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.10-04.33.24:917][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.10-04.33.24:917][  0]LogShaderCompilers: Guid format shader working directory is -62 characters bigger than the processId version (../../../../../../Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Intermediate/Shaders/WorkingDirectory/22500/).
+[2021.05.10-04.33.24:917][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Wada_Yuki10097002/AppData/Local/Temp/UnrealShaderWorkingDir/5D9EC3284855B9FB0030548604C48644/'.
+[2021.05.10-04.33.24:917][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.10-04.33.24:917][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.10-04.33.25:705][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.10-04.33.25:759][  0]LogDerivedDataCache: Loaded boot cache 0.05s 81MB C:/Users/Wada_Yuki10097002/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.10-04.33.25:759][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Wada_Yuki10097002/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.10-04.33.25:759][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.10-04.33.25:760][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.10-04.33.25:760][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.10-04.33.25:760][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.10-04.33.25:778][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.10-04.33.25:778][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.10-04.33.25:778][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.10-04.33.25:819][  0]LogDerivedDataCache: Speed tests for C:/Users/Wada_Yuki10097002/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2021.05.10-04.33.25:819][  0]LogDerivedDataCache: Display: Performance to C:/Users/Wada_Yuki10097002/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.20ms. RandomReadSpeed=312.12MBs, RandomWriteSpeed=26.92MBs. Assigned SpeedClass 'Local'
+[2021.05.10-04.33.25:822][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Wada_Yuki10097002/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.10-04.33.25:822][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.10-04.33.25:822][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.10-04.33.25:884][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.10-04.33.25:885][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.10-04.33.25:926][  0]LogAssetRegistry: FAssetRegistry took 0.0046 seconds to start up
+[2021.05.10-04.33.26:168][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.10-04.33.26:168][  0]LogInit: Active device profile: [0000027780383500][00000277F9399080 49] Windows
+[2021.05.10-04.33.26:168][  0]LogInit: Profiles: [0000027780383500][00000277F9399080 49] Windows, [0000027780340C00][00000277F93A1200 49] WindowsNoEditor, [0000027780380C00][00000277F93A5380 49] WindowsServer, [0000027780343100][00000277F93A9500 49] WindowsClient, [0000027780383000][00000277F939D640 49] IOS, [0000027780341300][00000277F93AD780 49] iPadAir, [0000027780381300][00000277F93B18C0 49] iPadAir2, [00000277802F8D00][00000277F93BDB40 49] IPadPro, [00000277802F8E00][00000277F93B5B80 49] iPadAir3, [0000027780382C00][00000277F93C1D00 49] iPadAir4, [00000277802FBA00][00000277F93C41C0 49] iPadMini2, [0000027780381400][00000277F93C8340 49] iPadMini3, [00000277802FA200][00000277F93CC4C0 49] iPadMini4, [0000027780382800][00000277F93D0640 49] iPadMini5, [0000027780342700][00000277F93D8900 49] iPhone6, [0000027780342600][00000277F93D4940 49] iPodTouch6, [00000277802FB200][00000277F93E0C00 49] iPhone7, [00000277802FB000][00000277F93DCC40 49] iPodTouch7, [0000027780343E00][00000277F93E4DC0 49] iPhone5S, [00000277802F8B00][00000277F93E8F40 49] iPhone6Plus, [0000027780340A00][00000277F93ED0C0 49] iPhone6S, [00000277802F9100][00000277F93F1240 49] iPhone6SPlus, [0000027780341200][00000277F93F53C0 49] iPhone7Plus, [00000277802F9F00][00000277F93F9540 49] iPhoneSE, [0000027780341500][00000277F93B9680 49] iPhone8, [00000277802F9000][00000277F93FD7C0 49] iPhone8Plus, [0000027780343400][00000277F9401900 49] iPhoneX, [00000277802FA700][00000277F9405A40 49] iPhoneXS, [0000027780341100][00000277F940DBC0 49] iPhoneXSMax, [00000277802F9400][00000277F9411D40 49] iPhoneXR, [0000027780340200][00000277F9414200 49] iPhone11, [00000277802F9B00][00000277F9418380 49] iPhone11Pro, [0000027780340800][00000277F941C500 49] iPhone11ProMax, [00000277802F9700][00000277F9420680 49] iPhoneSE2, [0000027780340500][00000277F9424800 49] iPhone12Mini, [00000277802F9800][00000277F9428980 49] iPhone12, [0000027780342200][00000277F942CB00 49] iPhone12Pro, [00000277802FBB00][00000277F9430C80 49] iPhone12ProMax, [0000027780340300][00000277F9434E00 49] iPadPro105, [00000277802F9C00][00000277F9438F80 49] iPadPro129, [0000027780340D00][00000277F943D100 49] iPadPro97, [00000277802F8700][00000277F9441280 49] iPadPro2_129, [0000027780342E00][00000277F9445400 49] iPad5, [00000277802FA000][00000277F9449580 49] iPad6, [0000027780343300][00000277F944D700 49] iPad7, [00000277802FB600][00000277F9409840 49] iPad8, [0000027780341A00][00000277F9451980 49] iPadPro11, [00000277802F9900][00000277F9455AC0 49] iPadPro2_11, [0000027780342F00][00000277F945DC40 49] iPadPro3_129, [00000277802FB100][00000277F9460100 49] iPadPro4_129, [0000027780343A00][00000277F9464280 49] AppleTV, [00000277802FB900][00000277F9468400 49] AppleTV4K, [0000027780343B00][00000277F946C580 49] TVOS, [00000277802F8400][00000277F9470700 49] Mac, [0000027780341000][00000277F9474880 49] MacClient, [00000277802F9500][00000277F9478A00 49] MacNoEditor, [0000027780340E00][00000277F947CB80 49] MacServer, [00000277802FB700][00000277F9480D00 49] Linux, [0000027780382F00][00000277F9484E80 49] LinuxAArch64, [0000027780499500][00000277F9489000 49] LinuxNoEditor, [0000027780382A00][00000277F948D180 49] LinuxAArch64NoEditor, [0000027780499800][00000277F9491300 49] LinuxClient, [0000027780380E00][00000277F9495480 49] LinuxAArch64Client, [0000027780498100][00000277F9499600 49] LinuxServer, [0000027780382100][00000277F949D780 49] LinuxAArch64Server, [0000027780499100][00000277F94598C0 49] Android, [0000027780383800][00000277F94A1A00 49] Android_Low, [0000027780499300][00000277F94A5B40 49] Android_Mid, [0000027780380400][00000277F94ADCC0 49] Android_High, [0000027780498400][00000277F94B0180 49] Android_Default, [0000027780381200][00000277F94B4300 49] Android_Adreno4xx, [0000027780498D00][00000277F94B8480 49] Android_Adreno5xx_Low, [0000027780382D00][00000277F94BC600 49] Android_Adreno5xx, [00000277802FA800][00000277F94C0780 49] Android_Adreno6xx, [0000027780380700][00000277F94C4900 49] Android_Adreno6xx_Vulkan, [00000277802FB500][00000277F94C8A80 49] Android_Mali_T6xx, [0000027780382600][00000277F94CCC00 49] Android_Mali_T7xx, [00000277802FA400][00000277F94D0D80 49] Android_Mali_T8xx, [0000027780383C00][00000277F94D4F00 49] Android_Mali_G71, [00000277802F9E00][00000277F94D9080 49] Android_Mali_G72, [0000027780382000][00000277F94DD200 49] Android_Mali_G72_Vulkan, [00000277802FAC00][00000277F94E1380 49] Android_Mali_G76, [0000027780382200][00000277F94E5500 49] Android_Mali_G76_Vulkan, [00000277802FA900][00000277F94E9680 49] Android_Mali_G77, [0000027780380800][00000277F94ED800 49] Android_Mali_G77_Vulkan, [00000277802F9200][00000277F94A9940 49] Android_Vulkan_SM5, [0000027780383900][00000277F94F1A80 49] Android_PowerVR_G6xxx, [00000277802F8F00][00000277F94F5BC0 49] Android_PowerVR_GT7xxx, [0000027780380B00][00000277F94F9D00 49] Android_PowerVR_GE8xxx, [00000277802F9600][00000277F95001C0 49] Android_PowerVR_GM9xxx, [0000027780380500][00000277F9504340 49] Android_PowerVR_GM9xxx_Vulkan, [00000277802F8500][00000277F95084C0 49] Android_TegraK1, [0000027780380D00][00000277F950C640 49] Android_Unknown_Vulkan, [00000277802FAE00][00000277F95107C0 49] Lumin, [0000027780380100][00000277F9514940 49] Lumin_Desktop, [00000277802FAD00][00000277F9518AC0 49] HoloLens, 
+[2021.05.10-04.33.26:397][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.10-04.33.26:397][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.10-04.33.26:397][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.10-04.33.26:397][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.10-04.33.26:397][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.10-04.33.26:424][  0]LogNetVersion: ShootingGameSystemCP 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1586495775)
+[2021.05.10-04.33.26:910][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.10-04.33.26:992][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.081024 seconds
+[2021.05.10-04.33.26:999][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.05.10-04.33.26:999][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.05.10-04.33.26:999][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.10-04.33.27:877][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.10-04.33.27:889][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.10-04.33.28:042][  0]LogPhysics: Error: FBodyInstance::GetSimplePhysicalMaterial : GEngine not initialized! Cannot call this during native CDO construction, wrap with if(!HasAnyFlags(RF_ClassDefaultObject)) or move out of constructor, material parameters will not be correct.
+[2021.05.10-04.33.28:068][  0]LogUObjectGlobals: Warning: オブジェクト 'Class /Game/DungeonExplorer/GraphicAssets/BP_rock.BP_rock' が見つかりませんでした
+[2021.05.10-04.33.28:068][  0]Error: CDO Constructor (RockEmitter): Failed to find /Game/DungeonExplorer/GraphicAssets/BP_rock.BP_rock
+
+[2021.05.10-04.33.28:069][  0]LogPhysics: Error: FBodyInstance::GetSimplePhysicalMaterial : GEngine not initialized! Cannot call this during native CDO construction, wrap with if(!HasAnyFlags(RF_ClassDefaultObject)) or move out of constructor, material parameters will not be correct.
+[2021.05.10-04.33.28:070][  0]LogPhysics: Error: FBodyInstance::GetSimplePhysicalMaterial : GEngine not initialized! Cannot call this during native CDO construction, wrap with if(!HasAnyFlags(RF_ClassDefaultObject)) or move out of constructor, material parameters will not be correct.
+[2021.05.10-04.33.28:131][  0]LogUObjectBase: Warning: -------------- Default Property warnings and errors:
+[2021.05.10-04.33.28:132][  0]LogUObjectBase: Warning: Error: CDO Constructor (RockEmitter): Failed to find /Game/DungeonExplorer/GraphicAssets/BP_rock.BP_rock
+
+[2021.05.10-04.33.29:736][  0]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft IME).
+[2021.05.10-04.33.29:739][  0]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft IME).
+[2021.05.10-04.33.29:741][  0]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft IME).
+[2021.05.10-04.33.29:743][  0]Message dialog closed, result: Ok, title: メッセージ, text: デフォルトプロパティ警告とエラー:
+Error: CDO Constructor (RockEmitter): Failed to find /Game/DungeonExplorer/GraphicAssets/BP_rock.BP_rock
+
+
+[2021.05.10-04.33.29:866][  0]SourceControl: ソースコントロールは無効です
+[2021.05.10-04.33.29:866][  0]SourceControl: ソースコントロールは無効です
+[2021.05.10-04.33.29:874][  0]SourceControl: ソースコントロールは無効です
+[2021.05.10-04.33.29:881][  0]SourceControl: ソースコントロールは無効です
+[2021.05.10-04.33.29:960][  0]SourceControl: ソースコントロールは無効です
+[2021.05.10-04.33.29:981][  0]LogUProjectInfo: Found projects:
+[2021.05.10-04.33.30:771][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.10-04.33.30:845][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.10-04.33.30:845][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.10-04.33.31:032][  0]LogCollectionManager: Loaded 0 collections in 0.001337 seconds
+[2021.05.10-04.33.31:103][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Saved/Collections/' took 0.00s
+[2021.05.10-04.33.31:103][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Content/Developers/WadaYuki10097002/Collections/' took 0.00s
+[2021.05.10-04.33.31:103][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Content/Collections/' took 0.00s
+[2021.05.10-04.33.31:103][  0]LogOcInput: OculusInput pre-init called
+[2021.05.10-04.33.31:153][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.05.10-04.33.31:153][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.05.10-04.33.31:285][  0]LogEngine: Initializing Engine...
+[2021.05.10-04.33.31:287][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.10-04.33.31:287][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.10-04.33.31:290][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.05.10-04.33.31:404][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.10-04.33.31:424][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.10-04.33.31:426][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.10-04.33.31:436][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.10-04.33.31:437][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.10-04.33.31:437][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.10-04.33.31:437][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.10-04.33.31:437][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.10-04.33.31:437][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.10-04.33.31:437][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.10-04.33.31:437][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.10-04.33.31:438][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.10-04.33.31:438][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.10-04.33.31:438][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.10-04.33.31:438][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.10-04.33.31:498][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.10-04.33.31:499][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.10-04.33.31:617][  0]LogAudioMixer: Display: Using Audio Device スピーカー (3- USB Audio Device)
+[2021.05.10-04.33.31:620][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.10-04.33.31:623][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.10-04.33.31:623][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.10-04.33.31:624][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.10-04.33.31:624][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.10-04.33.31:624][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.10-04.33.31:627][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.10-04.33.31:627][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.10-04.33.31:627][  0]LogInit: FAudioDevice initialized.
+[2021.05.10-04.33.31:627][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.10-04.33.31:627][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.10-04.33.31:678][  0]LogDerivedDataCache: Saved boot cache 0.05s 81MB C:/Users/Wada_Yuki10097002/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.10-04.33.31:682][  0]LogInit: Texture streaming: Enabled
+[2021.05.10-04.33.31:730][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.05.10-04.33.31:750][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.10-04.33.31:750][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.10-04.33.31:759][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.10-04.33.31:825][  0]LogInit: Transaction tracking system initialized
+[2021.05.10-04.33.31:901][  0]BlueprintLog: New page: エディタの読み込み
+[2021.05.10-04.33.32:118][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2021.05.10-04.33.32:196][  0]TimingProfiler: Initialize
+[2021.05.10-04.33.32:197][  0]TimingProfiler: OnSessionChanged
+[2021.05.10-04.33.32:197][  0]LoadingProfiler: Initialize
+[2021.05.10-04.33.32:197][  0]LoadingProfiler: OnSessionChanged
+[2021.05.10-04.33.32:197][  0]NetworkingProfiler: Initialize
+[2021.05.10-04.33.32:197][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.10-04.33.32:197][  0]MemoryProfiler: Initialize
+[2021.05.10-04.33.32:197][  0]MemoryProfiler: OnSessionChanged
+[2021.05.10-04.33.32:515][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.10-04.33.32:515][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.10-04.33.33:005][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/Content/' took 0.01s
+[2021.05.10-04.33.33:192][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.10-04.33.33:199][  0]SourceControl: ソースコントロールは無効です
+[2021.05.10-04.33.33:199][  0]LogUnrealEdMisc: Loading editor; pre map load, took 12.300
+[2021.05.10-04.33.33:199][  0]LightingResults: New page: ライティングのビルド
+[2021.05.10-04.33.33:200][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.10-04.33.33:200][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.10-04.33.33:201][  0]MapCheck: New page: マップをチェック
+[2021.05.10-04.33.33:201][  0]LightingResults: New page: <何も選択されていません>
+[2021.05.10-04.33.33:213][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.05.10-04.33.33:277][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.05.10-04.33.33:278][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.10-04.33.33:301][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.10-04.33.33:322][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.05.10-04.33.33:323][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.10-04.33.33:323][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.362ミリ秒かかりました。
+[2021.05.10-04.33.33:324][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.125
+[2021.05.10-04.33.33:327][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.428
+[2021.05.10-04.33.33:505][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.10-04.33.33:510][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.10-04.33.33:516][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.10-04.33.33:521][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.10-04.33.33:538][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0081 seconds. Added 3605 classes and 862 folders.
+[2021.05.10-04.33.33:540][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.05.10-04.33.33:543][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.10-04.33.33:543][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.10-04.33.33:543][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.10-04.33.33:543][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.05.10-04.33.33:545][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.10-04.33.33:545][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.10-04.33.33:545][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.10-04.33.33:545][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.05.10-04.33.33:546][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.10-04.33.33:546][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.10-04.33.33:546][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.10-04.33.33:546][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.05.10-04.33.33:547][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.10-04.33.33:547][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.10-04.33.33:547][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.10-04.33.33:547][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.05.10-04.33.33:548][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.10-04.33.33:548][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.10-04.33.33:548][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.10-04.33.33:548][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.05.10-04.33.33:549][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.10-04.33.33:549][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.10-04.33.33:549][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.10-04.33.33:549][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.05.10-04.33.33:551][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.10-04.33.33:551][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.10-04.33.33:551][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.10-04.33.33:551][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.05.10-04.33.33:552][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.10-04.33.33:552][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.10-04.33.33:552][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.10-04.33.33:552][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.05.10-04.33.33:553][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.10-04.33.33:553][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.10-04.33.33:553][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.10-04.33.33:553][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.05.10-04.33.33:554][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.10-04.33.33:554][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.10-04.33.33:554][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.10-04.33.33:554][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.05.10-04.33.33:555][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.10-04.33.33:555][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.10-04.33.33:555][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.10-04.33.33:555][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.05.10-04.33.33:556][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.10-04.33.33:556][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.10-04.33.33:556][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.10-04.33.33:556][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.05.10-04.33.33:556][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.10-04.33.33:557][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.10-04.33.33:557][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.10-04.33.33:557][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.05.10-04.33.33:558][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.10-04.33.33:558][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.10-04.33.33:558][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.10-04.33.33:558][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.05.10-04.33.33:559][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.10-04.33.33:559][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.10-04.33.33:559][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.10-04.33.33:559][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.05.10-04.33.33:560][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.10-04.33.33:560][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.10-04.33.33:560][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.10-04.33.33:560][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.05.10-04.33.33:561][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.10-04.33.33:561][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.10-04.33.33:561][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.10-04.33.33:561][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.05.10-04.33.33:562][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.10-04.33.33:562][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.10-04.33.33:562][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.10-04.33.33:563][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.05.10-04.33.33:563][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.10-04.33.33:563][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.10-04.33.33:564][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.10-04.33.33:564][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.05.10-04.33.33:565][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.10-04.33.33:565][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.10-04.33.33:565][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.10-04.33.33:565][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.05.10-04.33.33:566][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.10-04.33.33:566][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.10-04.33.33:566][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.10-04.33.33:566][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.05.10-04.33.33:567][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.10-04.33.33:567][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.10-04.33.33:567][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.10-04.33.33:567][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.05.10-04.33.33:568][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.10-04.33.33:568][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.10-04.33.33:568][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.10-04.33.33:568][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2021.05.10-04.33.33:569][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.10-04.33.33:569][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.10-04.33.33:569][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.10-04.33.33:569][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.05.10-04.33.33:570][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.10-04.33.33:570][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.10-04.33.33:570][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.10-04.33.33:571][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2021.05.10-04.33.33:571][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.10-04.33.33:571][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.10-04.33.33:572][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.10-04.33.33:572][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2021.05.10-04.33.33:618][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.10-04.33.33:622][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.05.10-04.33.33:741][  0]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.10-04.33.33:743][  0]LogSlate: Took 0.000431 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2021.05.10-04.33.33:745][  0]LogSlate: Took 0.000670 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2021.05.10-04.33.33:745][  0]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.10-04.33.33:749][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.10-04.33.33:837][  0]LogRenderer: Reallocating scene render targets to support 1116x388 Format 10 NumSamples 1 (Frame:1).
+[2021.05.10-04.33.33:881][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.10-04.33.33:941][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.05.10-04.33.33:941][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.05.10-04.33.33:941][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.05.10-04.33.33:941][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.05.10-04.33.33:941][  0]LogLoad: (Engine Initialization) Total time: 13.04 seconds
+[2021.05.10-04.33.33:942][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.10-04.33.33:942][  0]LogInit: First time updating LLM stats...
+[2021.05.10-04.33.34:209][  0]LogAssetRegistry: Asset discovery search completed in 8.2854 seconds
+[2021.05.10-04.33.34:211][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.05.10-04.33.34:211][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.10-04.33.36:432][211]LogTemp: Repeating last play command: 選択ビューポート
+[2021.05.10-04.33.36:441][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.10-04.33.36:442][211]PIE: New page: PIEセッション: ThirdPersonExampleMap (2021/05/10 22:33:36)
+[2021.05.10-04.33.36:444][211]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.05.10-04.33.36:447][211]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.05.10-04.33.36:447][211]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.10-04.33.36:461][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013654s)
+[2021.05.10-04.33.36:462][211]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.10-04.33.36:462][211]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2021.05.10-04.33.36:463][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015154s)
+[2021.05.10-04.33.36:481][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.05.10-04.33.36:482][211]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.05.10-04.33.36:482][211]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.10-04.33.36:482][211]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.10-04.33.36:482][211]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.10-04.33.36:482][211]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.10-04.33.36:482][211]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.10-04.33.36:482][211]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.10-04.33.36:483][211]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.10-04.33.36:483][211]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.10-04.33.36:483][211]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.10-04.33.36:483][211]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.10-04.33.36:485][211]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.10-04.33.36:485][211]LogAudioMixer: Display: 1: FrontRight
+[2021.05.10-04.33.36:511][211]LogAudioMixer: Display: Using Audio Device スピーカー (3- USB Audio Device)
+[2021.05.10-04.33.36:511][211]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.10-04.33.36:511][211]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.10-04.33.36:511][211]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.10-04.33.36:512][211]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.10-04.33.36:512][211]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.10-04.33.36:512][211]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.10-04.33.36:528][211]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.10-04.33.36:528][211]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.10-04.33.36:528][211]LogInit: FAudioDevice initialized.
+[2021.05.10-04.33.36:528][211]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.05.10-04.33.36:540][211]LogLoad: Game class is 'ShootingGameSystemCPGameMode'
+[2021.05.10-04.33.36:542][211]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.05.10-13.33.36
+[2021.05.10-04.33.36:543][211]LogWorld: Bringing up level for play took: 0.002145
+[2021.05.10-04.33.36:543][211]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.05.10-04.33.36:548][211]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.05.10-04.33.36:550][211]PIE: サーバーにログインしました
+[2021.05.10-04.33.36:552][211]PIE: PIE合計開始時間 0.115 秒。
+[2021.05.10-04.33.36:597][212]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.36:598][212]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.36:714][221]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.36:714][221]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.36:814][230]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.36:814][230]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.36:915][242]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.36:915][242]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.37:015][254]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.37:015][254]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.37:115][266]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.37:115][266]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.37:219][278]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.37:219][278]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.37:318][290]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.37:318][290]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.37:418][302]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.37:418][302]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.37:520][314]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.37:520][314]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.37:619][326]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.37:619][326]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.37:719][338]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.37:719][338]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.37:818][350]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.37:818][350]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.37:919][362]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.37:919][362]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.38:020][374]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.38:020][374]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.38:118][386]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.38:119][386]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.38:222][398]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.38:222][398]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.38:322][410]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.38:323][410]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.38:422][422]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.38:422][422]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.38:521][434]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.38:522][434]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.38:622][446]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.38:622][446]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.38:721][458]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.38:722][458]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.38:822][470]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.38:822][470]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.38:921][482]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.38:922][482]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.39:022][494]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.39:022][494]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.39:122][506]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.39:122][506]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.39:223][518]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.39:224][518]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.39:324][530]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.39:324][530]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.39:424][542]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.39:424][542]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.39:523][554]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.39:523][554]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.39:624][566]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.39:624][566]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.39:723][578]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.39:723][578]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.39:823][590]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.39:824][590]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.39:923][602]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.39:923][602]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.40:025][614]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.40:026][614]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.40:126][626]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.40:126][626]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.40:228][638]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.40:229][638]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.40:328][650]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.40:328][650]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.40:429][662]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.40:429][662]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.40:528][674]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.40:528][674]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.40:628][686]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.40:629][686]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.40:728][698]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.40:729][698]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.40:828][710]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.40:828][710]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.40:928][722]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.40:928][722]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.41:029][734]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.41:029][734]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.41:128][746]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.41:129][746]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.41:230][758]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.41:230][758]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.41:332][770]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.41:332][770]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.41:431][782]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.41:432][782]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.41:531][794]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.41:532][794]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.41:632][806]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.41:632][806]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.41:731][818]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.41:731][818]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.41:831][830]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.41:832][830]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.41:932][842]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.41:932][842]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.42:031][854]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.42:031][854]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.42:131][866]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.42:131][866]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.42:236][878]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.42:236][878]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.42:286][884]LogTemp: Display: Check OnHit
+[2021.05.10-04.33.42:286][884]LogTemp: Display: Check OnHitIF
+[2021.05.10-04.33.42:286][884]LogTemp: Display: Damege : 25.000000
+[2021.05.10-04.33.42:286][884]LogTemp: Display: »݂HP : 75.000000
+[2021.05.10-04.33.42:335][890]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.42:335][890]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.42:438][902]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.42:438][902]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.42:538][914]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.42:539][914]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.42:640][926]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.42:641][926]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.42:742][938]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.42:742][938]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.42:848][950]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.42:848][950]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.42:947][962]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.42:947][962]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.43:047][974]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.43:047][974]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.43:148][986]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.43:148][986]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.43:250][998]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.43:250][998]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.43:350][ 10]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.43:351][ 10]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.43:451][ 22]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.43:451][ 22]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.43:551][ 34]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.43:551][ 34]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.43:650][ 46]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.43:650][ 46]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.43:751][ 58]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.43:751][ 58]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.43:852][ 70]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.43:852][ 70]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.43:951][ 82]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.43:952][ 82]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.44:053][ 94]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.44:053][ 94]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.44:152][106]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.44:152][106]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.33.44:203][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.10-04.33.44:204][108]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.10-04.33.44:204][108]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.10-04.33.44:205][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.10-04.33.44:223][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.10-04.33.44:225][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.10-04.33.44:231][108]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.10-04.33.44:232][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.10-04.33.44:234][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.10-04.33.44:276][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.10-04.33.44:278][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.05.10-04.33.44:297][109]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.05.10-04.33.48:809][616]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.10-04.33.48:810][616]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2021.05.10-04.33.48:826][616]Running C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/ShootingGameSystemCP.uproject" -game -rocket -progress
+[2021.05.10-04.33.49:338][616]Discovering modules, targets and source code for project...
+[2021.05.10-04.33.51:150][616]Binding IntelliSense data...
+[2021.05.10-04.33.53:378][616]Binding IntelliSense data... 100%
+[2021.05.10-04.33.53:379][616]Writing project files...
+[2021.05.10-04.33.56:906][616]Writing project files... 100%
+[2021.05.10-04.33.57:475][670]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.10-04.33.57:513][670]LogSlate: Took 0.000433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-SemiBold.otf' (703K)
+[2021.05.10-04.33.57:513][670]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Heavy.otf' (704K)
+[2021.05.10-04.33.57:538][670]LogSlate: Took 0.001192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.05.10-04.33.57:539][670]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: ' (U+008c)'
+[2021.05.10-04.33.57:544][670]LogSlate: Took 0.002538 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2021.05.10-04.34.00:575][ 15]Candidate modules for hot reload:
+[2021.05.10-04.34.00:575][ 15]  ShootingGameSystemCP
+[2021.05.10-04.34.00:575][ 15]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ShootingGameSystemCP,4184 ShootingGameSystemCPEditor Win64 Development -Project="C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/ShootingGameSystemCP.uproject" "C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/ShootingGameSystemCP.uproject"  -IgnoreJunk]
+[2021.05.10-04.34.00:585][ 15]Warning: Starting HotReload took  0.1s.
+[2021.05.10-04.34.03:893][371]CompilerResultsLog: New page: コンパイル - 2021/05/10 22:34:03
+[2021.05.10-04.34.03:893][371]CompilerResultsLog: Creating makefile for ShootingGameSystemCPEditor (no existing makefile)
+[2021.05.10-04.34.03:893][371]CompilerResultsLog: Building ShootingGameSystemCPEditor...
+[2021.05.10-04.34.03:893][371]CompilerResultsLog: Using Visual Studio 2019 14.28.29914 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.05.10-04.34.03:893][371]CompilerResultsLog: Building 3 actions with 20 processes...
+[2021.05.10-04.34.03:893][371]CompilerResultsLog:   [1/3] UE4Editor-ShootingGameSystemCP-4184.lib
+[2021.05.10-04.34.03:894][371]CompilerResultsLog:      ???C?u???? C:\Users\Wada_Yuki10097002\Desktop\UE\Day06\UE4_Engineering_Day06-1.GameEngTechnics\ShootingGameSystemCP\Intermediate\Build\Win64\UE4Editor\Development\ShootingGameSystemCP\UE4Editor-ShootingGameSystemCP-4184.lib ?ƃI?u?W?F?N?g C:\Users\Wada_Yuki10097002\Desktop\UE\Day06\UE4_Engineering_Day06-1.GameEngTechnics\ShootingGameSystemCP\Intermediate\Build\Win64\UE4Editor\Development\ShootingGameSystemCP\UE4Editor-ShootingGameSystemCP-4184.exp ???쐬??
+[2021.05.10-04.34.03:894][371]CompilerResultsLog:   [2/3] UE4Editor-ShootingGameSystemCP-4184.dll
+[2021.05.10-04.34.03:894][371]CompilerResultsLog:      ???C?u???? C:\Users\Wada_Yuki10097002\Desktop\UE\Day06\UE4_Engineering_Day06-1.GameEngTechnics\ShootingGameSystemCP\Intermediate\Build\Win64\UE4Editor\Development\ShootingGameSystemCP\UE4Editor-ShootingGameSystemCP-4184.suppressed.lib ?ƃI?u?W?F?N?g C:\Users\Wada_Yuki10097002\Desktop\UE\Day06\UE4_Engineering_Day06-1.GameEngTechnics\ShootingGameSystemCP\Intermediate\Build\Win64\UE4Editor\Development\ShootingGameSystemCP\UE4Editor-ShootingGameSystemCP-4184.suppressed.exp ???쐬??
+[2021.05.10-04.34.03:894][371]CompilerResultsLog:   [3/3] ShootingGameSystemCPEditor.target
+[2021.05.10-04.34.03:894][371]CompilerResultsLog: Total time in Parallel executor: 1.21 seconds
+[2021.05.10-04.34.03:894][371]CompilerResultsLog: Total execution time: 3.11 seconds
+[2021.05.10-04.34.03:894][371]LogMainFrame: MainFrame: Module compiling took 3.326 seconds
+[2021.05.10-04.34.03:929][371]LogUObjectGlobals: Warning: オブジェクト 'Class /Game/DungeonExplorer/GraphicAssets/BP_rock.BP_rock' が見つかりませんでした
+[2021.05.10-04.34.03:929][371]Error: CDO Constructor (RockEmitter): Failed to find /Game/DungeonExplorer/GraphicAssets/BP_rock.BP_rock
+
+[2021.05.10-04.34.03:933][371]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ShootingGameSystemCP' in 0.0003 seconds. Added 4 classes and 3 folders.
+[2021.05.10-04.34.03:933][371]Warning: Some classes could not be reloaded:
+Error: CDO Constructor (RockEmitter): Failed to find /Game/DungeonExplorer/GraphicAssets/BP_rock.BP_rock
+
+
+[2021.05.10-04.34.03:934][371]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2021.05.10-04.34.04:013][371]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0085 seconds. Added 3605 classes and 862 folders.
+[2021.05.10-04.34.04:013][371]Display: HotReload took  3.5s.
+[2021.05.10-04.34.43:758][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.10-04.34.45:851][558]Candidate modules for hot reload:
+[2021.05.10-04.34.45:851][558]  ShootingGameSystemCP
+[2021.05.10-04.34.45:852][558]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ShootingGameSystemCP,15 ShootingGameSystemCPEditor Win64 Development -Project="C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/ShootingGameSystemCP.uproject" "C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/ShootingGameSystemCP.uproject"  -IgnoreJunk]
+[2021.05.10-04.34.45:860][558]Warning: Starting HotReload took  0.0s.
+[2021.05.10-04.34.48:653][848]CompilerResultsLog: New page: コンパイル - 2021/05/10 22:34:48
+[2021.05.10-04.34.48:653][848]CompilerResultsLog: Building ShootingGameSystemCPEditor...
+[2021.05.10-04.34.48:653][848]CompilerResultsLog: Using Visual Studio 2019 14.28.29914 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.05.10-04.34.48:653][848]CompilerResultsLog: Building 4 actions with 20 processes...
+[2021.05.10-04.34.48:654][848]CompilerResultsLog:   [1/4] RockEmitter.cpp
+[2021.05.10-04.34.48:654][848]CompilerResultsLog:   [2/4] UE4Editor-ShootingGameSystemCP-0015.lib
+[2021.05.10-04.34.48:654][848]CompilerResultsLog:      ???C?u???? C:\Users\Wada_Yuki10097002\Desktop\UE\Day06\UE4_Engineering_Day06-1.GameEngTechnics\ShootingGameSystemCP\Intermediate\Build\Win64\UE4Editor\Development\ShootingGameSystemCP\UE4Editor-ShootingGameSystemCP-0015.lib ?ƃI?u?W?F?N?g C:\Users\Wada_Yuki10097002\Desktop\UE\Day06\UE4_Engineering_Day06-1.GameEngTechnics\ShootingGameSystemCP\Intermediate\Build\Win64\UE4Editor\Development\ShootingGameSystemCP\UE4Editor-ShootingGameSystemCP-0015.exp ???쐬??
+[2021.05.10-04.34.48:654][848]CompilerResultsLog:   [3/4] UE4Editor-ShootingGameSystemCP-0015.dll
+[2021.05.10-04.34.48:654][848]CompilerResultsLog:      ???C?u???? C:\Users\Wada_Yuki10097002\Desktop\UE\Day06\UE4_Engineering_Day06-1.GameEngTechnics\ShootingGameSystemCP\Intermediate\Build\Win64\UE4Editor\Development\ShootingGameSystemCP\UE4Editor-ShootingGameSystemCP-0015.suppressed.lib ?ƃI?u?W?F?N?g C:\Users\Wada_Yuki10097002\Desktop\UE\Day06\UE4_Engineering_Day06-1.GameEngTechnics\ShootingGameSystemCP\Intermediate\Build\Win64\UE4Editor\Development\ShootingGameSystemCP\UE4Editor-ShootingGameSystemCP-0015.suppressed.exp ???쐬??
+[2021.05.10-04.34.48:654][848]CompilerResultsLog:   [4/4] ShootingGameSystemCPEditor.target
+[2021.05.10-04.34.48:654][848]CompilerResultsLog: Total time in Parallel executor: 2.00 seconds
+[2021.05.10-04.34.48:654][848]CompilerResultsLog: Total execution time: 2.64 seconds
+[2021.05.10-04.34.48:654][848]LogMainFrame: MainFrame: Module compiling took 2.807 seconds
+[2021.05.10-04.34.48:669][848]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0118 seconds. Added 3605 classes and 862 folders.
+[2021.05.10-04.34.48:669][848]Display: HotReload took  2.8s.
+[2021.05.10-04.34.53:012][358]LogTemp: Repeating last play command: 選択ビューポート
+[2021.05.10-04.34.53:021][358]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.10-04.34.53:022][358]PIE: New page: PIEセッション: ThirdPersonExampleMap (2021/05/10 22:34:53)
+[2021.05.10-04.34.53:048][358]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.10-04.34.53:060][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011484s)
+[2021.05.10-04.34.53:062][358]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.10-04.34.53:062][358]LogPlayLevel: PIE: World Init took: (0.001699s)
+[2021.05.10-04.34.53:062][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013830s)
+[2021.05.10-04.34.53:096][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.05.10-04.34.53:097][358]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.05.10-04.34.53:098][358]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.10-04.34.53:098][358]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.10-04.34.53:098][358]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.10-04.34.53:098][358]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.10-04.34.53:098][358]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.10-04.34.53:098][358]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.10-04.34.53:098][358]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.10-04.34.53:098][358]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.10-04.34.53:099][358]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.10-04.34.53:099][358]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.10-04.34.53:101][358]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.10-04.34.53:101][358]LogAudioMixer: Display: 1: FrontRight
+[2021.05.10-04.34.53:135][358]LogAudioMixer: Display: Using Audio Device スピーカー (3- USB Audio Device)
+[2021.05.10-04.34.53:135][358]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.10-04.34.53:136][358]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.10-04.34.53:136][358]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.10-04.34.53:136][358]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.10-04.34.53:136][358]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.10-04.34.53:136][358]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.10-04.34.53:159][358]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.10-04.34.53:159][358]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.10-04.34.53:159][358]LogInit: FAudioDevice initialized.
+[2021.05.10-04.34.53:159][358]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2021.05.10-04.34.53:179][358]LogLoad: Game class is 'ShootingGameSystemCPGameMode'
+[2021.05.10-04.34.53:182][358]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.05.10-13.34.53
+[2021.05.10-04.34.53:183][358]LogWorld: Bringing up level for play took: 0.002885
+[2021.05.10-04.34.53:183][358]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.05.10-04.34.53:192][358]PIE: サーバーにログインしました
+[2021.05.10-04.34.53:194][358]PIE: PIE合計開始時間 0.177 秒。
+[2021.05.10-04.34.53:234][359]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.53:235][359]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.53:334][371]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.53:334][371]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.53:435][383]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.53:436][383]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.53:534][395]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.53:535][395]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.53:634][407]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.53:634][407]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.53:738][419]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.53:738][419]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.53:838][431]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.53:839][431]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.53:938][443]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.53:938][443]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.54:038][455]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.54:039][455]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.54:138][467]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.54:138][467]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.54:238][479]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.54:238][479]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.54:338][491]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.54:338][491]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.54:438][503]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.54:439][503]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.54:537][515]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.54:538][515]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.54:637][527]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.54:638][527]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.54:738][539]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.54:738][539]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.54:838][551]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.54:838][551]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.54:938][563]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.54:938][563]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.55:038][575]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.55:038][575]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.55:138][587]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.55:138][587]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.55:238][599]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.55:239][599]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.55:338][611]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.55:338][611]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.55:438][623]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.55:438][623]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.55:538][635]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.55:539][635]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.55:637][647]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.55:637][647]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.55:738][659]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.55:738][659]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.55:838][671]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.55:838][671]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.55:939][683]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.55:939][683]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.56:038][695]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.56:038][695]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.56:138][707]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.56:138][707]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.56:238][719]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.56:238][719]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.56:338][731]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.56:338][731]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.56:438][743]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.56:438][743]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.56:538][755]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.56:539][755]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.56:639][767]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.56:639][767]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.56:738][779]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.56:738][779]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.56:838][791]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.56:838][791]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.56:939][803]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.56:939][803]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.57:038][815]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.57:038][815]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.57:138][827]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.57:139][827]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.57:238][839]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.57:238][839]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.57:338][851]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.57:338][851]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.57:439][863]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.57:439][863]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.57:538][875]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.57:538][875]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.57:638][887]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.57:639][887]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.57:738][899]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.57:738][899]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.57:838][911]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.57:838][911]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.57:938][923]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.57:938][923]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.58:038][935]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.58:038][935]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.58:138][947]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.58:139][947]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.10-04.34.58:243][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.10-04.34.58:243][955]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.10-04.34.58:243][955]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.10-04.34.58:244][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.10-04.34.58:270][955]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.10-04.34.58:292][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.10-04.34.58:302][955]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.10-04.34.58:303][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.10-04.34.58:305][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.10-04.34.58:350][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.10-04.34.58:352][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.05.10-04.34.58:386][956]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.05.10-04.35.19:376][417]Candidate modules for hot reload:
+[2021.05.10-04.35.19:376][417]  ShootingGameSystemCP
+[2021.05.10-04.35.19:377][417]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ShootingGameSystemCP,7788 ShootingGameSystemCPEditor Win64 Development -Project="C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/ShootingGameSystemCP.uproject" "C:/Users/Wada_Yuki10097002/Desktop/UE/Day06/UE4_Engineering_Day06-1.GameEngTechnics/ShootingGameSystemCP/ShootingGameSystemCP.uproject"  -IgnoreJunk]
+[2021.05.10-04.35.19:386][417]Warning: Starting HotReload took  0.0s.
+[2021.05.10-04.35.22:260][714]CompilerResultsLog: New page: コンパイル - 2021/05/10 22:35:22
+[2021.05.10-04.35.22:260][714]CompilerResultsLog: Building ShootingGameSystemCPEditor...
+[2021.05.10-04.35.22:261][714]CompilerResultsLog: Using Visual Studio 2019 14.28.29914 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.05.10-04.35.22:261][714]CompilerResultsLog: Building 4 actions with 20 processes...
+[2021.05.10-04.35.22:261][714]CompilerResultsLog:   [1/4] RockEmitter.cpp
+[2021.05.10-04.35.22:261][714]CompilerResultsLog:   [2/4] UE4Editor-ShootingGameSystemCP-7788.lib
+[2021.05.10-04.35.22:261][714]CompilerResultsLog:      ???C?u???? C:\Users\Wada_Yuki10097002\Desktop\UE\Day06\UE4_Engineering_Day06-1.GameEngTechnics\ShootingGameSystemCP\Intermediate\Build\Win64\UE4Editor\Development\ShootingGameSystemCP\UE4Editor-ShootingGameSystemCP-7788.lib ?ƃI?u?W?F?N?g C:\Users\Wada_Yuki10097002\Desktop\UE\Day06\UE4_Engineering_Day06-1.GameEngTechnics\ShootingGameSystemCP\Intermediate\Build\Win64\UE4Editor\Development\ShootingGameSystemCP\UE4Editor-ShootingGameSystemCP-7788.exp ???쐬??
+[2021.05.10-04.35.22:261][714]CompilerResultsLog:   [3/4] UE4Editor-ShootingGameSystemCP-7788.dll
+[2021.05.10-04.35.22:261][714]CompilerResultsLog:      ???C?u???? C:\Users\Wada_Yuki10097002\Desktop\UE\Day06\UE4_Engineering_Day06-1.GameEngTechnics\ShootingGameSystemCP\Intermediate\Build\Win64\UE4Editor\Development\ShootingGameSystemCP\UE4Editor-ShootingGameSystemCP-7788.suppressed.lib ?ƃI?u?W?F?N?g C:\Users\Wada_Yuki10097002\Desktop\UE\Day06\UE4_Engineering_Day06-1.GameEngTechnics\ShootingGameSystemCP\Intermediate\Build\Win64\UE4Editor\Development\ShootingGameSystemCP\UE4Editor-ShootingGameSystemCP-7788.suppressed.exp ???쐬??
+[2021.05.10-04.35.22:262][714]CompilerResultsLog:   [4/4] ShootingGameSystemCPEditor.target
+[2021.05.10-04.35.22:262][714]CompilerResultsLog: Total time in Parallel executor: 2.08 seconds
+[2021.05.10-04.35.22:262][714]CompilerResultsLog: Total execution time: 2.72 seconds
+[2021.05.10-04.35.22:262][714]LogMainFrame: MainFrame: Module compiling took 2.889 seconds
+[2021.05.10-04.35.22:294][714]Error: CDO Constructor (RockEmitter): Failed to find /Game/DungeonExplorer/GraphicAssets/BP_rock.BP_rock
+
+[2021.05.10-04.35.22:297][714]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ShootingGameSystemCP' in 0.0003 seconds. Added 4 classes and 3 folders.
+[2021.05.10-04.35.22:297][714]Warning: Some classes could not be reloaded:
+Error: CDO Constructor (RockEmitter): Failed to find /Game/DungeonExplorer/GraphicAssets/BP_rock.BP_rock
+
+
+[2021.05.10-04.35.22:298][714]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2021.05.10-04.35.22:330][714]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0087 seconds. Added 3605 classes and 862 folders.
+[2021.05.10-04.35.22:330][714]Display: HotReload took  3.0s.
+[2021.05.10-04.36.24:834][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_rock)
+[2021.05.10-04.36.27:093][551]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)

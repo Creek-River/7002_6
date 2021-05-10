@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Wada_Yuki10097002\\Desktop\\UE\\Day06\\UE4_Engineering_Day06-1.GameEngTechnics\\ShootingGameSystemCP\\Source\\ShootingGameSystemCP\\ShootingGameSystemCP.Build.cs",
+		"C:\\Users\\Wada_Yuki10097002\\Desktop\\UE\\Day06\\UE4_Engineering_Day06-1.GameEngTechnics\\ShootingGameSystemCP\\Source\\ShootingGameSystemCP.Target.cs",
+		"C:\\Users\\Wada_Yuki10097002\\Desktop\\UE\\Day06\\UE4_Engineering_Day06-1.GameEngTechnics\\ShootingGameSystemCP\\Source\\ShootingGameSystemCPEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
